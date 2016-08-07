@@ -5,6 +5,8 @@ The simple stock module is built using a gradle build with standard Maven style 
 
 The build generates a jar file based on the project name 'jpsimplestock'.
 
+Generate the jar file using `./gradlew build`
+
 ## Design
 A summary of the design for the simple stock module is illustrated in the image file 'simple-stock-design-uml.png'.
 The following sections detail contents of the various packages in the system.
